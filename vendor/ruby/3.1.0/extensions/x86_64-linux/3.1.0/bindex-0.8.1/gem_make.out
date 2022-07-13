@@ -1,0 +1,15 @@
+current directory: /home/william/Learning/Ruby/scheduled_tweets/vendor/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+/home/william/.rbenv/versions/3.1.2/bin/ruby -I /home/william/.rbenv/versions/3.1.2/lib/ruby/3.1.0 -r ./siteconf20220713-3878-g1mu0i.rb extconf.rb
+creating Makefile
+
+current directory: /home/william/Learning/Ruby/scheduled_tweets/vendor/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /home/william/Learning/Ruby/scheduled_tweets/vendor/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/william/Learning/Ruby/scheduled_tweets/vendor/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20220713-3878-mni4de/skiptrace/internal

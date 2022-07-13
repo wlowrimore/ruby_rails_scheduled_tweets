@@ -1,0 +1,16 @@
+current directory: /home/william/Learning/Ruby/scheduled_tweets/vendor/ruby/3.1.0/gems/debug-1.6.1/ext/debug
+/home/william/.rbenv/versions/3.1.2/bin/ruby -I /home/william/.rbenv/versions/3.1.2/lib/ruby/3.1.0 -r ./siteconf20220713-3878-xq6879.rb extconf.rb
+creating Makefile
+
+current directory: /home/william/Learning/Ruby/scheduled_tweets/vendor/ruby/3.1.0/gems/debug-1.6.1/ext/debug
+make DESTDIR\= clean
+
+current directory: /home/william/Learning/Ruby/scheduled_tweets/vendor/ruby/3.1.0/gems/debug-1.6.1/ext/debug
+make DESTDIR\=
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/william/Learning/Ruby/scheduled_tweets/vendor/ruby/3.1.0/gems/debug-1.6.1/ext/debug
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20220713-3878-qh0bk4/debug
