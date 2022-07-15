@@ -1,6 +1,6 @@
 # Scheduled Tweets 
 
-This application is my first steps into learning and utilizing Ruby on Rails.  This tutorial comes from <a href="gorails.com">gorails.com</a>, and is taught by <a href="https://excid3.com/">Chris Oliver</a>.<br>
+This application is my first steps into learning and utilizing Ruby on Rails.  This tutorial comes from <a href="gorails.com" target="_blank" rel="noreferrer noopener">gorails.com</a>, and is taught by <a href="https://excid3.com/" target="_blank" rel="noreferrer noopener">Chris Oliver</a>.<br>
 
 I highly recommend this tutorial!  Chris is an incredible teacher that makes the information make sense!<br><br>
 
@@ -8,7 +8,7 @@ I highly recommend this tutorial!  Chris is an incredible teacher that makes the
 
 Traditional learning materials give you a structured approach to a solution. We know that problems rarely fit this structure and that any problem can be solved by approaching it the right way.
 
-Chris knows this struggle first hand. As a self-taught engineer, he is familiar with the challenges of becoming a developer."</i> - <a href="gorails.com/about">Go Rails</a><br><br>  
+Chris knows this struggle first hand. As a self-taught engineer, he is familiar with the challenges of becoming a developer."</i> - <a href="gorails.com/about" target="_blank" rel="noreferrer noopener">Go Rails</a><br><br>  
 
 This app is a work in progress, and this README.md will be updated as progress is being made.<br><br>
 
