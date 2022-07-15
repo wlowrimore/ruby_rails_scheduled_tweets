@@ -1,6 +1,6 @@
 # Scheduled Tweets 
 
-This application is my first steps into learning and utilizing Ruby on Rails.  This tutorial comes from <a href="gorails.com">gorails.com, and is taught by <a href="https://excid3.com/">Chris Oliver</a>.<br>
+This application is my first steps into learning and utilizing Ruby on Rails.  This tutorial comes from <a href="gorails.com">gorails.com</a>, and is taught by <a href="https://excid3.com/">Chris Oliver</a>.<br>
 
 I highly recommend this tutorial!  Chris is an incredible teacher that makes the information make sense!<br><br>
 
